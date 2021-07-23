@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sara-faris
 - 👀 I’m interested in programming and also mobiles maintenance 
 - 🌱 I’m currently learning more about computers maintenance 
-- 💞️ I’m looking forward to progress and more in this technical field
+- 💞️ I’m looking forward to more progress and evolution in this technical field
 
 
 <!---
